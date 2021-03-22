@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JvArchive Helper 18-25
 // @namespace    https://jeuxvideo.com
-// @updateURL    https://github.com/AtomisteBX/JvArchive-Helper/blob/main/jvarchive-helper-latest.js
+// @updateURL    https://github.com/AtomisteBX/JvArchive-Helper/blob/main/jvarchive-helper-latest.user.js
 // @version      1.0.0
 // @description  ajoute un bouton afin de consulter une archive du topic sur JVArchive
 // @author       Atomiste aKa DalDoeK
